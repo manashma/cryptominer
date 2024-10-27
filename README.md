@@ -25,6 +25,7 @@
 powershell -Command "Start-Process powershell -ArgumentList '-ExecutionPolicy Bypass -File \"miner.ps1\"' -Verb RunAs"
 ```
 ## Contact
+__For inquiries regarding custom mining automation tools or modifications to this project, please contact:__
 #### **Email:** beastbattle24@gmail.com
 #### **GitHub:** https://github.com/manashma
 
