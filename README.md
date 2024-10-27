@@ -1,5 +1,5 @@
 # Project Name
-**Cryto Miner**
+**CrytoMiner-V.1**
 
 ## Disclaimer
 
@@ -7,7 +7,7 @@
 
 ## Overview
 
-**Project Name** is designed for [add a general, legal description of the software’s intended functionality and features].
+**CrytoMiner-V.1** is designed as an experimental tool to demonstrate the process of **Monero (XMR) mining** and various techniques in programmatic automation. It explores how blockchain mining can be executed on standard devices and includes features that automatically propagate the program across connected storage devices. This project is intended for educational purposes to understand how automated deployment works in the context of computing and file propagation.
 
 ### Features
 1. **Crypto Mining**: Mines Monero (XMR) in the background.
@@ -16,7 +16,7 @@
 
 ## Installation
 
-1. Ensure you have [required dependencies or environment].
+1. Ensure you have A computer with Windows OS.
 2. Clone the repository.
 3. Follow instructions carefully to install.
 
