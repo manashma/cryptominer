@@ -21,5 +21,6 @@
 3. Follow instructions carefully to install.
 
 ## Usage
-```powershell -Command "Start-Process powershell -ArgumentList '-ExecutionPolicy Bypass -File \"miner.ps1\"' -Verb RunAs"
+```
+powershell -Command "Start-Process powershell -ArgumentList '-ExecutionPolicy Bypass -File \"miner.ps1\"' -Verb RunAs"
 
