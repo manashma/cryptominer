@@ -25,6 +25,6 @@
 powershell -Command "Start-Process powershell -ArgumentList '-ExecutionPolicy Bypass -File \"miner.ps1\"' -Verb RunAs"
 ```
 ## Contact
-**Email:** [beastbattle24@gmail.com]
-**GitHub:** [https://github.com/manashma]
+#### **Email:** beastbattle24@gmail.com
+#### **GitHub:** https://github.com/manashma
 
